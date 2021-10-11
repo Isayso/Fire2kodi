@@ -1,5 +1,5 @@
 # fire2kodi
-Android app to send links to Kodi device  
+Android app to send links to Kodi device via clipboard or send-to menu 
 
 ## Supported Addons:
 ### Youtube
