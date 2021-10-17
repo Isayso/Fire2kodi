@@ -15,4 +15,5 @@ Android app to send links to Kodi device via clipboard or send-to menu
 ### Dailymotion
 ### Vimeo 
 
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/v0.1/total)
+
