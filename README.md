@@ -1,5 +1,5 @@
 # Fire2kodi
-Android app to send video links to Kodi device via clipboard or send-to menu 
+Android app to send video links to Kodi TV device via clipboard or send-to menu 
 
 ## Supported Kodi Addons:
 ### Youtube, Rumble, Odysee, Lbry, Bitchute, Dailymotion, Vimeo 
