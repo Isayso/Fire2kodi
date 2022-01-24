@@ -7,5 +7,5 @@ Android app to send video links to Kodi TV device via clipboard or send-to menu
 ![UI](Screenshot_20211018-221225.png)
 
 
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/v0.1/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/v0.2/total)
 
