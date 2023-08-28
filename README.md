@@ -12,5 +12,5 @@ This app translates links from web for various video Addons.
 ![UI](Screenshot_20211018-221225.png)
 
 
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/v0.2/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/total)
 
