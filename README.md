@@ -1,6 +1,6 @@
 # Fire2kodi
 
-## Further development at [Codeberg](https://codeberg.org/Isayso)  
+## Further development at [Codeberg](https://codeberg.org/Isayso) Also on F-Droid IzzyOnDroid Repo 
 
 Android app to send video links to Kodi TV device via clipboard or send-to menu. 
 Kore sends links to Kodi devices but cannot translate them for the specific video Addons. 
