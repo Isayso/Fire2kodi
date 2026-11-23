@@ -7,12 +7,13 @@ Kore sends links to Kodi devices but cannot translate them for the specific vide
 This app translates links from web for various video Addons.  
 
 ## Supported Kodi Addons:
-### Youtube, Rumble, Odysee, Lbry, Bitchute, Dailymotion, Vimeo 
+### Youtube, Rumble, Odysee, Bitchute, Amazon Prime, Joyn, Twitch, Kick 
 
-- Auto Queue: Puts link to queue automatically
-- Auto Close: Close App after push link to queue
 
-![UI](Screenshot_20211018-221225.png)
+## Supported Android TV Apps (Vushio full version on Google Play Store):
+### Youtube, VLC, Amazon Prime, Joyn, Twitch, Kick
+
+![UI](1.png)
 
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/total)
