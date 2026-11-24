@@ -9,14 +9,16 @@ This app translates links from web for various video Addons.
 ## Supported Kodi Addons:
 ### Youtube, Rumble, Odysee, Bitchute, Amazon Prime, Joyn, Twitch, Kick 
 
-For US customers you can get the full version of Vushio which also sends video links to Android/Google TVs on Google Play Store:   
+For US customers you can get the full version of [Vushio](https://sites.google.com/view/vushioapp/startseite) which also sends video links to Android/Google TVs on Google Play Store:   
 [Google Play Store](https://play.google.com/store/apps/details?id=com.vushio.app)
 
-## Supported Android TV Apps:
+## Supported Android TV Apps (Vushio Full version):
 ### Youtube, VLC, Amazon Prime, Joyn, Twitch, Kick
 
-![UI](1.png)
-
+<div align="left">
+  <img src="1.png" width="30%" />
+ 
+</div>
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/total)
 
