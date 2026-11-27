@@ -15,9 +15,9 @@ For US and UK citizens you can get the full version of [Vushio](https://sites.go
 ## Supported Android TV Apps (Vushio Full version):
 ### Youtube, VLC, Amazon Prime, Joyn, Twitch, Kick
 
-<div align="left">
-  <img src="1.png" width="30%" />
- 
+<div align="center">
+  <img src="1.png" width="20%" height="400"/>
+  <img src="advertizing1.png" width="60%" height="400"/>
 </div>
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/Fire2kodi/total)
